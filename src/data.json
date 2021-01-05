@@ -1,0 +1,4663 @@
+{
+    "Trains": [{
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A02",
+      "LocationName": "Farragut North",
+      "Min": "BRD"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A04",
+      "LocationName": "Woodley Park-Zoo/Adams Morgan",
+      "Min": "BRD"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "B10",
+      "LocationName": "Wheaton",
+      "Min": "BRD"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "BL",
+      "LocationCode": "C10",
+      "LocationName": "Ronald Reagan Washington National Airport",
+      "Min": "BRD"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "2",
+      "Line": "OR",
+      "LocationCode": "D02",
+      "LocationName": "Smithsonian",
+      "Min": "BRD"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "2",
+      "Line": "OR",
+      "LocationCode": "D12",
+      "LocationName": "Landover",
+      "Min": "BRD"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "YL",
+      "LocationCode": "E03",
+      "LocationName": "U Street/African-Amer Civil War Memorial/Cardozo",
+      "Min": "BRD"
+    }, {
+      "Car": "8",
+      "Destination": "Brnch Av",
+      "DestinationCode": "F11",
+      "DestinationName": "Branch Ave",
+      "Group": "2",
+      "Line": "GR",
+      "LocationCode": "E06",
+      "LocationName": "Fort Totten",
+      "Min": "BRD"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "GR",
+      "LocationCode": "F05",
+      "LocationName": "Navy Yard-Ballpark",
+      "Min": "BRD"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "GR",
+      "LocationCode": "F10",
+      "LocationName": "Suitland",
+      "Min": "BRD"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A06",
+      "LocationName": "Van Ness-UDC",
+      "Min": "ARR"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "B02",
+      "LocationName": "Judiciary Square",
+      "Min": "ARR"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "B06",
+      "LocationName": "Fort Totten",
+      "Min": "ARR"
+    }, {
+      "Car": "8",
+      "Destination": "Largo",
+      "DestinationCode": "G05",
+      "DestinationName": "Largo Town Center",
+      "Group": "1",
+      "Line": "BL",
+      "LocationCode": "C05",
+      "LocationName": "Rosslyn",
+      "Min": "ARR"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "YL",
+      "LocationCode": "C08",
+      "LocationName": "Pentagon City",
+      "Min": "ARR"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "BL",
+      "LocationCode": "D03",
+      "LocationName": "L'Enfant Plaza",
+      "Min": "ARR"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "GR",
+      "LocationCode": "E09",
+      "LocationName": "College Park-U of Md",
+      "Min": "ARR"
+    }, {
+      "Car": "8",
+      "Destination": "Brnch Av",
+      "DestinationCode": "F11",
+      "DestinationName": "Branch Ave",
+      "Group": "2",
+      "Line": "GR",
+      "LocationCode": "F03",
+      "LocationName": "L'Enfant Plaza",
+      "Min": "ARR"
+    }, {
+      "Car": "8",
+      "Destination": "Brnch Av",
+      "DestinationCode": "F11",
+      "DestinationName": "Branch Ave",
+      "Group": "2",
+      "Line": "GR",
+      "LocationCode": "F09",
+      "LocationName": "Naylor Road",
+      "Min": "ARR"
+    }, {
+      "Car": "8",
+      "Destination": "Wiehle",
+      "DestinationCode": "N06",
+      "DestinationName": "Wiehle-Reston East",
+      "Group": "2",
+      "Line": "SV",
+      "LocationCode": "N03",
+      "LocationName": "Greensboro",
+      "Min": "ARR"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A09",
+      "LocationName": "Bethesda",
+      "Min": "1"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A14",
+      "LocationName": "Rockville",
+      "Min": "1"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A14",
+      "LocationName": "Rockville",
+      "Min": "1"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "B05",
+      "LocationName": "Brookland-CUA",
+      "Min": "1"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "B09",
+      "LocationName": "Forest Glen",
+      "Min": "1"
+    }, {
+      "Car": "8",
+      "Destination": "NewCrltn",
+      "DestinationCode": "D13",
+      "DestinationName": "New Carrollton",
+      "Group": "1",
+      "Line": "OR",
+      "LocationCode": "C05",
+      "LocationName": "Rosslyn",
+      "Min": "1"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "YL",
+      "LocationCode": "C10",
+      "LocationName": "Ronald Reagan Washington National Airport",
+      "Min": "1"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "2",
+      "Line": "OR",
+      "LocationCode": "D01",
+      "LocationName": "Federal Triangle",
+      "Min": "1"
+    }, {
+      "Car": "8",
+      "Destination": "Largo",
+      "DestinationCode": "G05",
+      "DestinationName": "Largo Town Center",
+      "Group": "1",
+      "Line": "BL",
+      "LocationCode": "D08",
+      "LocationName": "Stadium-Armory",
+      "Min": "1"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "YL",
+      "LocationCode": "E02",
+      "LocationName": "Shaw-Howard U",
+      "Min": "1"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "GR",
+      "LocationCode": "E04",
+      "LocationName": "Columbia Heights",
+      "Min": "1"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "YL",
+      "LocationCode": "E06",
+      "LocationName": "Fort Totten",
+      "Min": "1"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "YL",
+      "LocationCode": "E08",
+      "LocationName": "Prince George's Plaza",
+      "Min": "1"
+    }, {
+      "Car": "6",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "BL",
+      "LocationCode": "G04",
+      "LocationName": "Morgan Boulevard",
+      "Min": "1"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A01",
+      "LocationName": "Metro Center",
+      "Min": "2"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A05",
+      "LocationName": "Cleveland Park",
+      "Min": "2"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A05",
+      "LocationName": "Cleveland Park",
+      "Min": "2"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A10",
+      "LocationName": "Medical Center",
+      "Min": "2"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "B01",
+      "LocationName": "Gallery Pl-Chinatown",
+      "Min": "2"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "B09",
+      "LocationName": "Forest Glen",
+      "Min": "2"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "2",
+      "Line": "OR",
+      "LocationCode": "C01",
+      "LocationName": "Metro Center",
+      "Min": "2"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "YL",
+      "LocationCode": "C09",
+      "LocationName": "Crystal City",
+      "Min": "2"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "YL",
+      "LocationCode": "C09",
+      "LocationName": "Crystal City",
+      "Min": "2"
+    }, {
+      "Car": null,
+      "Destination": "LARGO CENTER",
+      "DestinationCode": "G05",
+      "DestinationName": "Largo Town Center",
+      "Group": "2",
+      "Line": "BL",
+      "LocationCode": "C15",
+      "LocationName": "Huntington",
+      "Min": "2"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "BL",
+      "LocationCode": "D02",
+      "LocationName": "Smithsonian",
+      "Min": "2"
+    }, {
+      "Car": "8",
+      "Destination": "Brnch Av",
+      "DestinationCode": "F11",
+      "DestinationName": "Branch Ave",
+      "Group": "2",
+      "Line": "GR",
+      "LocationCode": "E05",
+      "LocationName": "Georgia Ave-Petworth",
+      "Min": "2"
+    }, {
+      "Car": null,
+      "Destination": "BRANCH AVENUE",
+      "DestinationCode": "F11",
+      "DestinationName": "Branch Ave",
+      "Group": "2",
+      "Line": "GR",
+      "LocationCode": "E10",
+      "LocationName": "Greenbelt",
+      "Min": "2"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "YL",
+      "LocationCode": "F03",
+      "LocationName": "L'Enfant Plaza",
+      "Min": "2"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "GR",
+      "LocationCode": "F04",
+      "LocationName": "Waterfront",
+      "Min": "2"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "GR",
+      "LocationCode": "F09",
+      "LocationName": "Naylor Road",
+      "Min": "2"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "2",
+      "Line": "OR",
+      "LocationCode": "K06",
+      "LocationName": "West Falls Church-VT/UVA",
+      "Min": "2"
+    }, {
+      "Car": null,
+      "Destination": "NEW CARROLLTON",
+      "DestinationCode": "D13",
+      "DestinationName": "New Carrollton",
+      "Group": "1",
+      "Line": "OR",
+      "LocationCode": "K08",
+      "LocationName": "Vienna/Fairfax-GMU",
+      "Min": "2"
+    }, {
+      "Car": "8",
+      "Destination": "Wiehle",
+      "DestinationCode": "N06",
+      "DestinationName": "Wiehle-Reston East",
+      "Group": "2",
+      "Line": "SV",
+      "LocationCode": "N04",
+      "LocationName": "Spring Hill",
+      "Min": "2"
+    }, {
+      "Car": null,
+      "Destination": "BALLSTON",
+      "DestinationCode": "K04",
+      "DestinationName": "Ballston-MU",
+      "Group": "1",
+      "Line": "SV",
+      "LocationCode": "N06",
+      "LocationName": "Wiehle-Reston East",
+      "Min": "2"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A01",
+      "LocationName": "Metro Center",
+      "Min": "3"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A06",
+      "LocationName": "Van Ness-UDC",
+      "Min": "3"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A10",
+      "LocationName": "Medical Center",
+      "Min": "3"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "B01",
+      "LocationName": "Gallery Pl-Chinatown",
+      "Min": "3"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "B05",
+      "LocationName": "Brookland-CUA",
+      "Min": "3"
+    }, {
+      "Car": "8",
+      "Destination": "Largo",
+      "DestinationCode": "G05",
+      "DestinationName": "Largo Town Center",
+      "Group": "1",
+      "Line": "BL",
+      "LocationCode": "C04",
+      "LocationName": "Foggy Bottom-GWU",
+      "Min": "3"
+    }, {
+      "Car": "8",
+      "Destination": "Largo",
+      "DestinationCode": "G05",
+      "DestinationName": "Largo Town Center",
+      "Group": "1",
+      "Line": "BL",
+      "LocationCode": "C14",
+      "LocationName": "Eisenhower Avenue",
+      "Min": "3"
+    }, {
+      "Car": "8",
+      "Destination": "NewCrltn",
+      "DestinationCode": "D13",
+      "DestinationName": "New Carrollton",
+      "Group": "1",
+      "Line": "OR",
+      "LocationCode": "D09",
+      "LocationName": "Minnesota Ave",
+      "Min": "3"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "2",
+      "Line": "OR",
+      "LocationCode": "D11",
+      "LocationName": "Cheverly",
+      "Min": "3"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "YL",
+      "LocationCode": "E01",
+      "LocationName": "Mt Vernon Sq 7th St-Convention Center",
+      "Min": "3"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "GR",
+      "LocationCode": "E05",
+      "LocationName": "Georgia Ave-Petworth",
+      "Min": "3"
+    }, {
+      "Car": "8",
+      "Destination": "Brnch Av",
+      "DestinationCode": "F11",
+      "DestinationName": "Branch Ave",
+      "Group": "2",
+      "Line": "GR",
+      "LocationCode": "F04",
+      "LocationName": "Waterfront",
+      "Min": "3"
+    }, {
+      "Car": "8",
+      "Destination": "Brnch Av",
+      "DestinationCode": "F11",
+      "DestinationName": "Branch Ave",
+      "Group": "2",
+      "Line": "GR",
+      "LocationCode": "F10",
+      "LocationName": "Suitland",
+      "Min": "3"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A04",
+      "LocationName": "Woodley Park-Zoo/Adams Morgan",
+      "Min": "4"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A09",
+      "LocationName": "Bethesda",
+      "Min": "4"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A13",
+      "LocationName": "Twinbrook",
+      "Min": "4"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "B06",
+      "LocationName": "Fort Totten",
+      "Min": "4"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "B10",
+      "LocationName": "Wheaton",
+      "Min": "4"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "2",
+      "Line": "OR",
+      "LocationCode": "C02",
+      "LocationName": "McPherson Square",
+      "Min": "4"
+    }, {
+      "Car": "8",
+      "Destination": "NewCrltn",
+      "DestinationCode": "D13",
+      "DestinationName": "New Carrollton",
+      "Group": "1",
+      "Line": "OR",
+      "LocationCode": "C04",
+      "LocationName": "Foggy Bottom-GWU",
+      "Min": "4"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "YL",
+      "LocationCode": "C08",
+      "LocationName": "Pentagon City",
+      "Min": "4"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "YL",
+      "LocationCode": "C10",
+      "LocationName": "Ronald Reagan Washington National Airport",
+      "Min": "4"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "BL",
+      "LocationCode": "D01",
+      "LocationName": "Federal Triangle",
+      "Min": "4"
+    }, {
+      "Car": "8",
+      "Destination": "Brnch Av",
+      "DestinationCode": "F11",
+      "DestinationName": "Branch Ave",
+      "Group": "2",
+      "Line": "GR",
+      "LocationCode": "E04",
+      "LocationName": "Columbia Heights",
+      "Min": "4"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "YL",
+      "LocationCode": "E07",
+      "LocationName": "West Hyattsville",
+      "Min": "4"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "YL",
+      "LocationCode": "F02",
+      "LocationName": "Archives-Navy Memorial-Penn Quarter",
+      "Min": "4"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "GR",
+      "LocationCode": "F03",
+      "LocationName": "L'Enfant Plaza",
+      "Min": "4"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "GR",
+      "LocationCode": "F08",
+      "LocationName": "Southern Avenue",
+      "Min": "4"
+    }, {
+      "Car": "6",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "BL",
+      "LocationCode": "G03",
+      "LocationName": "Addison Road-Seat Pleasant",
+      "Min": "4"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A02",
+      "LocationName": "Farragut North",
+      "Min": "5"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "B02",
+      "LocationName": "Judiciary Square",
+      "Min": "5"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "BL",
+      "LocationCode": "C01",
+      "LocationName": "Metro Center",
+      "Min": "5"
+    }, {
+      "Car": "8",
+      "Destination": "Largo",
+      "DestinationCode": "G05",
+      "DestinationName": "Largo Town Center",
+      "Group": "1",
+      "Line": "BL",
+      "LocationCode": "C03",
+      "LocationName": "Farragut West",
+      "Min": "5"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "BL",
+      "LocationCode": "C12",
+      "LocationName": "Braddock Road",
+      "Min": "5"
+    }, {
+      "Car": "8",
+      "Destination": "Largo",
+      "DestinationCode": "G05",
+      "DestinationName": "Largo Town Center",
+      "Group": "1",
+      "Line": "BL",
+      "LocationCode": "C13",
+      "LocationName": "King St-Old Town",
+      "Min": "5"
+    }, {
+      "Car": "8",
+      "Destination": "NewCrltn",
+      "DestinationCode": "D13",
+      "DestinationName": "New Carrollton",
+      "Group": "1",
+      "Line": "OR",
+      "LocationCode": "D10",
+      "LocationName": "Deanwood",
+      "Min": "5"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "2",
+      "Line": "OR",
+      "LocationCode": "D10",
+      "LocationName": "Deanwood",
+      "Min": "5"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "YL",
+      "LocationCode": "E07",
+      "LocationName": "West Hyattsville",
+      "Min": "5"
+    }, {
+      "Car": "8",
+      "Destination": "Brnch Av",
+      "DestinationCode": "F11",
+      "DestinationName": "Branch Ave",
+      "Group": "2",
+      "Line": "GR",
+      "LocationCode": "E09",
+      "LocationName": "College Park-U of Md",
+      "Min": "5"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "YL",
+      "LocationCode": "F01",
+      "LocationName": "Gallery Pl-Chinatown",
+      "Min": "5"
+    }, {
+      "Car": "8",
+      "Destination": "Brnch Av",
+      "DestinationCode": "F11",
+      "DestinationName": "Branch Ave",
+      "Group": "2",
+      "Line": "GR",
+      "LocationCode": "F05",
+      "LocationName": "Navy Yard-Ballpark",
+      "Min": "5"
+    }, {
+      "Car": "8",
+      "Destination": "NewCrltn",
+      "DestinationCode": "D13",
+      "DestinationName": "New Carrollton",
+      "Group": "1",
+      "Line": "OR",
+      "LocationCode": "K07",
+      "LocationName": "Dunn Loring-Merrifield",
+      "Min": "5"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "2",
+      "Line": "OR",
+      "LocationCode": "K07",
+      "LocationName": "Dunn Loring-Merrifield",
+      "Min": "5"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A03",
+      "LocationName": "Dupont Circle",
+      "Min": "6"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A07",
+      "LocationName": "Tenleytown-AU",
+      "Min": "6"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "B04",
+      "LocationName": "Rhode Island Ave-Brentwood",
+      "Min": "6"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "B08",
+      "LocationName": "Silver Spring",
+      "Min": "6"
+    }, {
+      "Car": "8",
+      "Destination": "Largo",
+      "DestinationCode": "G05",
+      "DestinationName": "Largo Town Center",
+      "Group": "1",
+      "Line": "BL",
+      "LocationCode": "C02",
+      "LocationName": "McPherson Square",
+      "Min": "6"
+    }, {
+      "Car": "8",
+      "Destination": "NewCrltn",
+      "DestinationCode": "D13",
+      "DestinationName": "New Carrollton",
+      "Group": "1",
+      "Line": "OR",
+      "LocationCode": "C03",
+      "LocationName": "Farragut West",
+      "Min": "6"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "2",
+      "Line": "OR",
+      "LocationCode": "C03",
+      "LocationName": "Farragut West",
+      "Min": "6"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "YL",
+      "LocationCode": "C07",
+      "LocationName": "Pentagon",
+      "Min": "6"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "BL",
+      "LocationCode": "C13",
+      "LocationName": "King St-Old Town",
+      "Min": "6"
+    }, {
+      "Car": null,
+      "Destination": "GREENBELT",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "YL",
+      "LocationCode": "C15",
+      "LocationName": "Huntington",
+      "Min": "6"
+    }, {
+      "Car": "8",
+      "Destination": "Brnch Av",
+      "DestinationCode": "F11",
+      "DestinationName": "Branch Ave",
+      "Group": "2",
+      "Line": "GR",
+      "LocationCode": "E03",
+      "LocationName": "U Street/African-Amer Civil War Memorial/Cardozo",
+      "Min": "6"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "GR",
+      "LocationCode": "E06",
+      "LocationName": "Fort Totten",
+      "Min": "6"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "YL",
+      "LocationCode": "F01",
+      "LocationName": "Gallery Pl-Chinatown",
+      "Min": "6"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "GR",
+      "LocationCode": "F02",
+      "LocationName": "Archives-Navy Memorial-Penn Quarter",
+      "Min": "6"
+    }, {
+      "Car": "8",
+      "Destination": "Largo",
+      "DestinationCode": "G05",
+      "DestinationName": "Largo Town Center",
+      "Group": "1",
+      "Line": "BL",
+      "LocationCode": "G01",
+      "LocationName": "Benning Road",
+      "Min": "6"
+    }, {
+      "Car": "6",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "BL",
+      "LocationCode": "G02",
+      "LocationName": "Capitol Heights",
+      "Min": "6"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A03",
+      "LocationName": "Dupont Circle",
+      "Min": "7"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A08",
+      "LocationName": "Friendship Heights",
+      "Min": "7"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A11",
+      "LocationName": "Grosvenor-Strathmore",
+      "Min": "7"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A12",
+      "LocationName": "White Flint",
+      "Min": "7"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "B03",
+      "LocationName": "Union Station",
+      "Min": "7"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "B07",
+      "LocationName": "Takoma",
+      "Min": "7"
+    }, {
+      "Car": "8",
+      "Destination": "NewCrltn",
+      "DestinationCode": "D13",
+      "DestinationName": "New Carrollton",
+      "Group": "1",
+      "Line": "OR",
+      "LocationCode": "C02",
+      "LocationName": "McPherson Square",
+      "Min": "7"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "BL",
+      "LocationCode": "C02",
+      "LocationName": "McPherson Square",
+      "Min": "7"
+    }, {
+      "Car": "8",
+      "Destination": "Largo",
+      "DestinationCode": "G05",
+      "DestinationName": "Largo Town Center",
+      "Group": "1",
+      "Line": "BL",
+      "LocationCode": "C12",
+      "LocationName": "Braddock Road",
+      "Min": "7"
+    }, {
+      "Car": "-",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "YL",
+      "LocationCode": "C14",
+      "LocationName": "Eisenhower Avenue",
+      "Min": "7"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "2",
+      "Line": "OR",
+      "LocationCode": "D09",
+      "LocationName": "Minnesota Ave",
+      "Min": "7"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "YL",
+      "LocationCode": "E01",
+      "LocationName": "Mt Vernon Sq 7th St-Convention Center",
+      "Min": "7"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "YL",
+      "LocationCode": "E06",
+      "LocationName": "Fort Totten",
+      "Min": "7"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "YL",
+      "LocationCode": "E08",
+      "LocationName": "Prince George's Plaza",
+      "Min": "7"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "GR",
+      "LocationCode": "F01",
+      "LocationName": "Gallery Pl-Chinatown",
+      "Min": "7"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "YL",
+      "LocationCode": "F02",
+      "LocationName": "Archives-Navy Memorial-Penn Quarter",
+      "Min": "7"
+    }, {
+      "Car": "8",
+      "Destination": "Brnch Av",
+      "DestinationCode": "F11",
+      "DestinationName": "Branch Ave",
+      "Group": "2",
+      "Line": "GR",
+      "LocationCode": "F06",
+      "LocationName": "Anacostia",
+      "Min": "7"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "GR",
+      "LocationCode": "F07",
+      "LocationName": "Congress Heights",
+      "Min": "7"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A02",
+      "LocationName": "Farragut North",
+      "Min": "8"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A08",
+      "LocationName": "Friendship Heights",
+      "Min": "8"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "B07",
+      "LocationName": "Takoma",
+      "Min": "8"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "B35",
+      "LocationName": "NoMa-Gallaudet",
+      "Min": "8"
+    }, {
+      "Car": "8",
+      "Destination": "Largo",
+      "DestinationCode": "G05",
+      "DestinationName": "Largo Town Center",
+      "Group": "1",
+      "Line": "BL",
+      "LocationCode": "C01",
+      "LocationName": "Metro Center",
+      "Min": "8"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "BL",
+      "LocationCode": "C03",
+      "LocationName": "Farragut West",
+      "Min": "8"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "1",
+      "Line": "OR",
+      "LocationCode": "C04",
+      "LocationName": "Foggy Bottom-GWU",
+      "Min": "8"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "BL",
+      "LocationCode": "C14",
+      "LocationName": "Eisenhower Avenue",
+      "Min": "8"
+    }, {
+      "Car": "8",
+      "Destination": "NewCrltn",
+      "DestinationCode": "D13",
+      "DestinationName": "New Carrollton",
+      "Group": "1",
+      "Line": "OR",
+      "LocationCode": "D11",
+      "LocationName": "Cheverly",
+      "Min": "8"
+    }, {
+      "Car": "8",
+      "Destination": "Brnch Av",
+      "DestinationCode": "F11",
+      "DestinationName": "Branch Ave",
+      "Group": "2",
+      "Line": "GR",
+      "LocationCode": "E02",
+      "LocationName": "Shaw-Howard U",
+      "Min": "8"
+    }, {
+      "Car": "8",
+      "Destination": "Largo",
+      "DestinationCode": "G05",
+      "DestinationName": "Largo Town Center",
+      "Group": "1",
+      "Line": "BL",
+      "LocationCode": "G02",
+      "LocationName": "Capitol Heights",
+      "Min": "8"
+    }, {
+      "Car": "8",
+      "Destination": "NewCrltn",
+      "DestinationCode": "D13",
+      "DestinationName": "New Carrollton",
+      "Group": "1",
+      "Line": "OR",
+      "LocationCode": "K06",
+      "LocationName": "West Falls Church-VT/UVA",
+      "Min": "8"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A04",
+      "LocationName": "Woodley Park-Zoo/Adams Morgan",
+      "Min": "9"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A07",
+      "LocationName": "Tenleytown-AU",
+      "Min": "9"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A11",
+      "LocationName": "Grosvenor-Strathmore",
+      "Min": "9"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A12",
+      "LocationName": "White Flint",
+      "Min": "9"
+    }, {
+      "Car": null,
+      "Destination": "GLENMONT",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A15",
+      "LocationName": "Shady Grove",
+      "Min": "9"
+    }, {
+      "Car": null,
+      "Destination": "SHADY GROVE",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "B11",
+      "LocationName": "Glenmont",
+      "Min": "9"
+    }, {
+      "Car": null,
+      "Destination": "SHADY GROVE",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "B11",
+      "LocationName": "Glenmont",
+      "Min": "9"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "B35",
+      "LocationName": "NoMa-Gallaudet",
+      "Min": "9"
+    }, {
+      "Car": "8",
+      "Destination": "NewCrltn",
+      "DestinationCode": "D13",
+      "DestinationName": "New Carrollton",
+      "Group": "1",
+      "Line": "OR",
+      "LocationCode": "C01",
+      "LocationName": "Metro Center",
+      "Min": "9"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "YL",
+      "LocationCode": "C12",
+      "LocationName": "Braddock Road",
+      "Min": "9"
+    }, {
+      "Car": "-",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "YL",
+      "LocationCode": "C13",
+      "LocationName": "King St-Old Town",
+      "Min": "9"
+    }, {
+      "Car": "8",
+      "Destination": "Largo",
+      "DestinationCode": "G05",
+      "DestinationName": "Largo Town Center",
+      "Group": "1",
+      "Line": "BL",
+      "LocationCode": "D01",
+      "LocationName": "Federal Triangle",
+      "Min": "9"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "GR",
+      "LocationCode": "E01",
+      "LocationName": "Mt Vernon Sq 7th St-Convention Center",
+      "Min": "9"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "YL",
+      "LocationCode": "E02",
+      "LocationName": "Shaw-Howard U",
+      "Min": "9"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "GR",
+      "LocationCode": "E07",
+      "LocationName": "West Hyattsville",
+      "Min": "9"
+    }, {
+      "Car": "8",
+      "Destination": "Brnch Av",
+      "DestinationCode": "F11",
+      "DestinationName": "Branch Ave",
+      "Group": "2",
+      "Line": "GR",
+      "LocationCode": "E08",
+      "LocationName": "Prince George's Plaza",
+      "Min": "9"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "GR",
+      "LocationCode": "F06",
+      "LocationName": "Anacostia",
+      "Min": "9"
+    }, {
+      "Car": "6",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "BL",
+      "LocationCode": "G01",
+      "LocationName": "Benning Road",
+      "Min": "9"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A01",
+      "LocationName": "Metro Center",
+      "Min": "10"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "B03",
+      "LocationName": "Union Station",
+      "Min": "10"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "B08",
+      "LocationName": "Silver Spring",
+      "Min": "10"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "BL",
+      "LocationCode": "C04",
+      "LocationName": "Foggy Bottom-GWU",
+      "Min": "10"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "1",
+      "Line": "OR",
+      "LocationCode": "C05",
+      "LocationName": "Rosslyn",
+      "Min": "10"
+    }, {
+      "Car": "8",
+      "Destination": "NewCrltn",
+      "DestinationCode": "D13",
+      "DestinationName": "New Carrollton",
+      "Group": "1",
+      "Line": "OR",
+      "LocationCode": "D12",
+      "LocationName": "Landover",
+      "Min": "10"
+    }, {
+      "Car": "8",
+      "Destination": "Brnch Av",
+      "DestinationCode": "F11",
+      "DestinationName": "Branch Ave",
+      "Group": "2",
+      "Line": "GR",
+      "LocationCode": "E01",
+      "LocationName": "Mt Vernon Sq 7th St-Convention Center",
+      "Min": "10"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "GR",
+      "LocationCode": "E02",
+      "LocationName": "Shaw-Howard U",
+      "Min": "10"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "YL",
+      "LocationCode": "E03",
+      "LocationName": "U Street/African-Amer Civil War Memorial/Cardozo",
+      "Min": "10"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "YL",
+      "LocationCode": "E05",
+      "LocationName": "Georgia Ave-Petworth",
+      "Min": "10"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "YL",
+      "LocationCode": "E09",
+      "LocationName": "College Park-U of Md",
+      "Min": "10"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "YL",
+      "LocationCode": "F03",
+      "LocationName": "L'Enfant Plaza",
+      "Min": "10"
+    }, {
+      "Car": "8",
+      "Destination": "Brnch Av",
+      "DestinationCode": "F11",
+      "DestinationName": "Branch Ave",
+      "Group": "2",
+      "Line": "GR",
+      "LocationCode": "F07",
+      "LocationName": "Congress Heights",
+      "Min": "10"
+    }, {
+      "Car": "-",
+      "Destination": "Wiehle",
+      "DestinationCode": "N06",
+      "DestinationName": "Wiehle-Reston East",
+      "Group": "2",
+      "Line": "SV",
+      "LocationCode": "K04",
+      "LocationName": "Ballston-MU",
+      "Min": "10"
+    }, {
+      "Car": "8",
+      "Destination": "Ballston",
+      "DestinationCode": "K04",
+      "DestinationName": "Ballston-MU",
+      "Group": "1",
+      "Line": "SV",
+      "LocationCode": "N04",
+      "LocationName": "Spring Hill",
+      "Min": "10"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A05",
+      "LocationName": "Cleveland Park",
+      "Min": "11"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A09",
+      "LocationName": "Bethesda",
+      "Min": "11"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A13",
+      "LocationName": "Twinbrook",
+      "Min": "11"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "B06",
+      "LocationName": "Fort Totten",
+      "Min": "11"
+    }, {
+      "Car": "-",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "YL",
+      "LocationCode": "C12",
+      "LocationName": "Braddock Road",
+      "Min": "11"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "YL",
+      "LocationCode": "C13",
+      "LocationName": "King St-Old Town",
+      "Min": "11"
+    }, {
+      "Car": "8",
+      "Destination": "NewCrltn",
+      "DestinationCode": "D13",
+      "DestinationName": "New Carrollton",
+      "Group": "1",
+      "Line": "OR",
+      "LocationCode": "D01",
+      "LocationName": "Federal Triangle",
+      "Min": "11"
+    }, {
+      "Car": "8",
+      "Destination": "Largo",
+      "DestinationCode": "G05",
+      "DestinationName": "Largo Town Center",
+      "Group": "1",
+      "Line": "BL",
+      "LocationCode": "D02",
+      "LocationName": "Smithsonian",
+      "Min": "11"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "2",
+      "Line": "OR",
+      "LocationCode": "D08",
+      "LocationName": "Stadium-Armory",
+      "Min": "11"
+    }, {
+      "Car": "8",
+      "Destination": "Brnch Av",
+      "DestinationCode": "F11",
+      "DestinationName": "Branch Ave",
+      "Group": "2",
+      "Line": "GR",
+      "LocationCode": "E07",
+      "LocationName": "West Hyattsville",
+      "Min": "11"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "GR",
+      "LocationCode": "E08",
+      "LocationName": "Prince George's Plaza",
+      "Min": "11"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "YL",
+      "LocationCode": "F03",
+      "LocationName": "L'Enfant Plaza",
+      "Min": "11"
+    }, {
+      "Car": "8",
+      "Destination": "Largo",
+      "DestinationCode": "G05",
+      "DestinationName": "Largo Town Center",
+      "Group": "1",
+      "Line": "BL",
+      "LocationCode": "G03",
+      "LocationName": "Addison Road-Seat Pleasant",
+      "Min": "11"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A06",
+      "LocationName": "Van Ness-UDC",
+      "Min": "12"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A14",
+      "LocationName": "Rockville",
+      "Min": "12"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "B01",
+      "LocationName": "Gallery Pl-Chinatown",
+      "Min": "12"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "B02",
+      "LocationName": "Judiciary Square",
+      "Min": "12"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "B04",
+      "LocationName": "Rhode Island Ave-Brentwood",
+      "Min": "12"
+    }, {
+      "Car": "8",
+      "Destination": "Largo",
+      "DestinationCode": "G05",
+      "DestinationName": "Largo Town Center",
+      "Group": "1",
+      "Line": "BL",
+      "LocationCode": "C10",
+      "LocationName": "Ronald Reagan Washington National Airport",
+      "Min": "12"
+    }, {
+      "Car": "8",
+      "Destination": "NewCrltn",
+      "DestinationCode": "D13",
+      "DestinationName": "New Carrollton",
+      "Group": "1",
+      "Line": "OR",
+      "LocationCode": "D02",
+      "LocationName": "Smithsonian",
+      "Min": "12"
+    }, {
+      "Car": "8",
+      "Destination": "Largo",
+      "DestinationCode": "G05",
+      "DestinationName": "Largo Town Center",
+      "Group": "1",
+      "Line": "BL",
+      "LocationCode": "D03",
+      "LocationName": "L'Enfant Plaza",
+      "Min": "12"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "GR",
+      "LocationCode": "E03",
+      "LocationName": "U Street/African-Amer Civil War Memorial/Cardozo",
+      "Min": "12"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "YL",
+      "LocationCode": "E04",
+      "LocationName": "Columbia Heights",
+      "Min": "12"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "YL",
+      "LocationCode": "E04",
+      "LocationName": "Columbia Heights",
+      "Min": "12"
+    }, {
+      "Car": "8",
+      "Destination": "Brnch Av",
+      "DestinationCode": "F11",
+      "DestinationName": "Branch Ave",
+      "Group": "2",
+      "Line": "GR",
+      "LocationCode": "F01",
+      "LocationName": "Gallery Pl-Chinatown",
+      "Min": "12"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "GR",
+      "LocationCode": "F05",
+      "LocationName": "Navy Yard-Ballpark",
+      "Min": "12"
+    }, {
+      "Car": "8",
+      "Destination": "Brnch Av",
+      "DestinationCode": "F11",
+      "DestinationName": "Branch Ave",
+      "Group": "2",
+      "Line": "GR",
+      "LocationCode": "F08",
+      "LocationName": "Southern Avenue",
+      "Min": "12"
+    }, {
+      "Car": "8",
+      "Destination": "NewCrltn",
+      "DestinationCode": "D13",
+      "DestinationName": "New Carrollton",
+      "Group": "1",
+      "Line": "OR",
+      "LocationCode": "K05",
+      "LocationName": "East Falls Church",
+      "Min": "12"
+    }, {
+      "Car": "8",
+      "Destination": "Ballston",
+      "DestinationCode": "K04",
+      "DestinationName": "Ballston-MU",
+      "Group": "1",
+      "Line": "SV",
+      "LocationCode": "N03",
+      "LocationName": "Greensboro",
+      "Min": "12"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A06",
+      "LocationName": "Van Ness-UDC",
+      "Min": "13"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A10",
+      "LocationName": "Medical Center",
+      "Min": "13"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A10",
+      "LocationName": "Medical Center",
+      "Min": "13"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "B02",
+      "LocationName": "Judiciary Square",
+      "Min": "13"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "B09",
+      "LocationName": "Forest Glen",
+      "Min": "13"
+    }, {
+      "Car": "-",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "B10",
+      "LocationName": "Wheaton",
+      "Min": "13"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "BL",
+      "LocationCode": "C05",
+      "LocationName": "Rosslyn",
+      "Min": "13"
+    }, {
+      "Car": "8",
+      "Destination": "Largo",
+      "DestinationCode": "G05",
+      "DestinationName": "Largo Town Center",
+      "Group": "1",
+      "Line": "BL",
+      "LocationCode": "C09",
+      "LocationName": "Crystal City",
+      "Min": "13"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "YL",
+      "LocationCode": "C14",
+      "LocationName": "Eisenhower Avenue",
+      "Min": "13"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "2",
+      "Line": "OR",
+      "LocationCode": "D07",
+      "LocationName": "Potomac Ave",
+      "Min": "13"
+    }, {
+      "Car": "6",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "BL",
+      "LocationCode": "D08",
+      "LocationName": "Stadium-Armory",
+      "Min": "13"
+    }, {
+      "Car": "-",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "YL",
+      "LocationCode": "E09",
+      "LocationName": "College Park-U of Md",
+      "Min": "13"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "YL",
+      "LocationCode": "F02",
+      "LocationName": "Archives-Navy Memorial-Penn Quarter",
+      "Min": "13"
+    }, {
+      "Car": null,
+      "Destination": "GREENBELT",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "2",
+      "Line": "GR",
+      "LocationCode": "F11",
+      "LocationName": "Branch Ave",
+      "Min": "13"
+    }, {
+      "Car": "8",
+      "Destination": "Largo",
+      "DestinationCode": "G05",
+      "DestinationName": "Largo Town Center",
+      "Group": "1",
+      "Line": "BL",
+      "LocationCode": "G04",
+      "LocationName": "Morgan Boulevard",
+      "Min": "13"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "1",
+      "Line": "OR",
+      "LocationCode": "K01",
+      "LocationName": "Court House",
+      "Min": "13"
+    }, {
+      "Car": "-",
+      "Destination": "Wiehle",
+      "DestinationCode": "N06",
+      "DestinationName": "Wiehle-Reston East",
+      "Group": "2",
+      "Line": "SV",
+      "LocationCode": "K05",
+      "LocationName": "East Falls Church",
+      "Min": "13"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A05",
+      "LocationName": "Cleveland Park",
+      "Min": "14"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "B01",
+      "LocationName": "Gallery Pl-Chinatown",
+      "Min": "14"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "B05",
+      "LocationName": "Brookland-CUA",
+      "Min": "14"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "B05",
+      "LocationName": "Brookland-CUA",
+      "Min": "14"
+    }, {
+      "Car": "8",
+      "Destination": "NewCrltn",
+      "DestinationCode": "D13",
+      "DestinationName": "New Carrollton",
+      "Group": "1",
+      "Line": "OR",
+      "LocationCode": "D03",
+      "LocationName": "L'Enfant Plaza",
+      "Min": "14"
+    }, {
+      "Car": "8",
+      "Destination": "Largo",
+      "DestinationCode": "G05",
+      "DestinationName": "Largo Town Center",
+      "Group": "1",
+      "Line": "BL",
+      "LocationCode": "D04",
+      "LocationName": "Federal Center SW",
+      "Min": "14"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "2",
+      "Line": "OR",
+      "LocationCode": "D06",
+      "LocationName": "Eastern Market",
+      "Min": "14"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "YL",
+      "LocationCode": "E03",
+      "LocationName": "U Street/African-Amer Civil War Memorial/Cardozo",
+      "Min": "14"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "GR",
+      "LocationCode": "E04",
+      "LocationName": "Columbia Heights",
+      "Min": "14"
+    }, {
+      "Car": "8",
+      "Destination": "Brnch Av",
+      "DestinationCode": "F11",
+      "DestinationName": "Branch Ave",
+      "Group": "2",
+      "Line": "GR",
+      "LocationCode": "E06",
+      "LocationName": "Fort Totten",
+      "Min": "14"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "YL",
+      "LocationCode": "F01",
+      "LocationName": "Gallery Pl-Chinatown",
+      "Min": "14"
+    }, {
+      "Car": "8",
+      "Destination": "Brnch Av",
+      "DestinationCode": "F11",
+      "DestinationName": "Branch Ave",
+      "Group": "2",
+      "Line": "GR",
+      "LocationCode": "F02",
+      "LocationName": "Archives-Navy Memorial-Penn Quarter",
+      "Min": "14"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "GR",
+      "LocationCode": "F04",
+      "LocationName": "Waterfront",
+      "Min": "14"
+    }, {
+      "Car": "8",
+      "Destination": "Ballston",
+      "DestinationCode": "K04",
+      "DestinationName": "Ballston-MU",
+      "Group": "1",
+      "Line": "SV",
+      "LocationCode": "N02",
+      "LocationName": "Tysons Corner",
+      "Min": "14"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A01",
+      "LocationName": "Metro Center",
+      "Min": "15"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A09",
+      "LocationName": "Bethesda",
+      "Min": "15"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A13",
+      "LocationName": "Twinbrook",
+      "Min": "15"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A14",
+      "LocationName": "Rockville",
+      "Min": "15"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "B03",
+      "LocationName": "Union Station",
+      "Min": "15"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "BL",
+      "LocationCode": "C06",
+      "LocationName": "Arlington Cemetery",
+      "Min": "15"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "YL",
+      "LocationCode": "C07",
+      "LocationName": "Pentagon",
+      "Min": "15"
+    }, {
+      "Car": "8",
+      "Destination": "Largo",
+      "DestinationCode": "G05",
+      "DestinationName": "Largo Town Center",
+      "Group": "1",
+      "Line": "BL",
+      "LocationCode": "C08",
+      "LocationName": "Pentagon City",
+      "Min": "15"
+    }, {
+      "Car": "8",
+      "Destination": "NewCrltn",
+      "DestinationCode": "D13",
+      "DestinationName": "New Carrollton",
+      "Group": "1",
+      "Line": "OR",
+      "LocationCode": "D04",
+      "LocationName": "Federal Center SW",
+      "Min": "15"
+    }, {
+      "Car": "6",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "BL",
+      "LocationCode": "D07",
+      "LocationName": "Potomac Ave",
+      "Min": "15"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "YL",
+      "LocationCode": "E05",
+      "LocationName": "Georgia Ave-Petworth",
+      "Min": "15"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "GR",
+      "LocationCode": "E09",
+      "LocationName": "College Park-U of Md",
+      "Min": "15"
+    }, {
+      "Car": "8",
+      "Destination": "Brnch Av",
+      "DestinationCode": "F11",
+      "DestinationName": "Branch Ave",
+      "Group": "2",
+      "Line": "GR",
+      "LocationCode": "F09",
+      "LocationName": "Naylor Road",
+      "Min": "15"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "2",
+      "Line": "OR",
+      "LocationCode": "K02",
+      "LocationName": "Clarendon",
+      "Min": "15"
+    }, {
+      "Car": "8",
+      "Destination": "NewCrltn",
+      "DestinationCode": "D13",
+      "DestinationName": "New Carrollton",
+      "Group": "1",
+      "Line": "OR",
+      "LocationCode": "K04",
+      "LocationName": "Ballston-MU",
+      "Min": "15"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A04",
+      "LocationName": "Woodley Park-Zoo/Adams Morgan",
+      "Min": "16"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A07",
+      "LocationName": "Tenleytown-AU",
+      "Min": "16"
+    }, {
+      "Car": "-",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "B09",
+      "LocationName": "Forest Glen",
+      "Min": "16"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "B10",
+      "LocationName": "Wheaton",
+      "Min": "16"
+    }, {
+      "Car": "-",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "YL",
+      "LocationCode": "C10",
+      "LocationName": "Ronald Reagan Washington National Airport",
+      "Min": "16"
+    }, {
+      "Car": "8",
+      "Destination": "Largo",
+      "DestinationCode": "G05",
+      "DestinationName": "Largo Town Center",
+      "Group": "1",
+      "Line": "BL",
+      "LocationCode": "D05",
+      "LocationName": "Capitol South",
+      "Min": "16"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "2",
+      "Line": "OR",
+      "LocationCode": "D05",
+      "LocationName": "Capitol South",
+      "Min": "16"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "YL",
+      "LocationCode": "E01",
+      "LocationName": "Mt Vernon Sq 7th St-Convention Center",
+      "Min": "16"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "YL",
+      "LocationCode": "E02",
+      "LocationName": "Shaw-Howard U",
+      "Min": "16"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "GR",
+      "LocationCode": "E05",
+      "LocationName": "Georgia Ave-Petworth",
+      "Min": "16"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "2",
+      "Line": "OR",
+      "LocationCode": "K03",
+      "LocationName": "Virginia Square-GMU",
+      "Min": "16"
+    }, {
+      "Car": "8",
+      "Destination": "Ballston",
+      "DestinationCode": "K04",
+      "DestinationName": "Ballston-MU",
+      "Group": "1",
+      "Line": "SV",
+      "LocationCode": "N01",
+      "LocationName": "McLean",
+      "Min": "16"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A02",
+      "LocationName": "Farragut North",
+      "Min": "17"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A11",
+      "LocationName": "Grosvenor-Strathmore",
+      "Min": "17"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "B04",
+      "LocationName": "Rhode Island Ave-Brentwood",
+      "Min": "17"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "B06",
+      "LocationName": "Fort Totten",
+      "Min": "17"
+    }, {
+      "Car": "8",
+      "Destination": "Largo",
+      "DestinationCode": "G05",
+      "DestinationName": "Largo Town Center",
+      "Group": "1",
+      "Line": "BL",
+      "LocationCode": "C07",
+      "LocationName": "Pentagon",
+      "Min": "17"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "YL",
+      "LocationCode": "C08",
+      "LocationName": "Pentagon City",
+      "Min": "17"
+    }, {
+      "Car": "-",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "YL",
+      "LocationCode": "C09",
+      "LocationName": "Crystal City",
+      "Min": "17"
+    }, {
+      "Car": "8",
+      "Destination": "NewCrltn",
+      "DestinationCode": "D13",
+      "DestinationName": "New Carrollton",
+      "Group": "1",
+      "Line": "OR",
+      "LocationCode": "D05",
+      "LocationName": "Capitol South",
+      "Min": "17"
+    }, {
+      "Car": "8",
+      "Destination": "Largo",
+      "DestinationCode": "G05",
+      "DestinationName": "Largo Town Center",
+      "Group": "1",
+      "Line": "BL",
+      "LocationCode": "D06",
+      "LocationName": "Eastern Market",
+      "Min": "17"
+    }, {
+      "Car": "6",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "BL",
+      "LocationCode": "D06",
+      "LocationName": "Eastern Market",
+      "Min": "17"
+    }, {
+      "Car": "8",
+      "Destination": "Brnch Av",
+      "DestinationCode": "F11",
+      "DestinationName": "Branch Ave",
+      "Group": "2",
+      "Line": "GR",
+      "LocationCode": "E05",
+      "LocationName": "Georgia Ave-Petworth",
+      "Min": "17"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "YL",
+      "LocationCode": "E06",
+      "LocationName": "Fort Totten",
+      "Min": "17"
+    }, {
+      "Car": "-",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "YL",
+      "LocationCode": "E08",
+      "LocationName": "Prince George's Plaza",
+      "Min": "17"
+    }, {
+      "Car": "8",
+      "Destination": "Brnch Av",
+      "DestinationCode": "F11",
+      "DestinationName": "Branch Ave",
+      "Group": "2",
+      "Line": "GR",
+      "LocationCode": "F03",
+      "LocationName": "L'Enfant Plaza",
+      "Min": "17"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "GR",
+      "LocationCode": "F10",
+      "LocationName": "Suitland",
+      "Min": "17"
+    }, {
+      "Car": "8",
+      "Destination": "NewCrltn",
+      "DestinationCode": "D13",
+      "DestinationName": "New Carrollton",
+      "Group": "1",
+      "Line": "OR",
+      "LocationCode": "K03",
+      "LocationName": "Virginia Square-GMU",
+      "Min": "17"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A03",
+      "LocationName": "Dupont Circle",
+      "Min": "18"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A08",
+      "LocationName": "Friendship Heights",
+      "Min": "18"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A08",
+      "LocationName": "Friendship Heights",
+      "Min": "18"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A12",
+      "LocationName": "White Flint",
+      "Min": "18"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "B35",
+      "LocationName": "NoMa-Gallaudet",
+      "Min": "18"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "BL",
+      "LocationCode": "C07",
+      "LocationName": "Pentagon",
+      "Min": "18"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "2",
+      "Line": "OR",
+      "LocationCode": "D04",
+      "LocationName": "Federal Center SW",
+      "Min": "18"
+    }, {
+      "Car": "8",
+      "Destination": "NewCrltn",
+      "DestinationCode": "D13",
+      "DestinationName": "New Carrollton",
+      "Group": "1",
+      "Line": "OR",
+      "LocationCode": "D06",
+      "LocationName": "Eastern Market",
+      "Min": "18"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "YL",
+      "LocationCode": "E01",
+      "LocationName": "Mt Vernon Sq 7th St-Convention Center",
+      "Min": "18"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "YL",
+      "LocationCode": "E02",
+      "LocationName": "Shaw-Howard U",
+      "Min": "18"
+    }, {
+      "Car": "8",
+      "Destination": "Brnch Av",
+      "DestinationCode": "F11",
+      "DestinationName": "Branch Ave",
+      "Group": "2",
+      "Line": "GR",
+      "LocationCode": "F10",
+      "LocationName": "Suitland",
+      "Min": "18"
+    }, {
+      "Car": "8",
+      "Destination": "NewCrltn",
+      "DestinationCode": "D13",
+      "DestinationName": "New Carrollton",
+      "Group": "1",
+      "Line": "OR",
+      "LocationCode": "K02",
+      "LocationName": "Clarendon",
+      "Min": "18"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "2",
+      "Line": "OR",
+      "LocationCode": "K04",
+      "LocationName": "Ballston-MU",
+      "Min": "18"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A03",
+      "LocationName": "Dupont Circle",
+      "Min": "19"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A12",
+      "LocationName": "White Flint",
+      "Min": "19"
+    }, {
+      "Car": "-",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "B08",
+      "LocationName": "Silver Spring",
+      "Min": "19"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "B35",
+      "LocationName": "NoMa-Gallaudet",
+      "Min": "19"
+    }, {
+      "Car": "-",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "YL",
+      "LocationCode": "C08",
+      "LocationName": "Pentagon City",
+      "Min": "19"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "YL",
+      "LocationCode": "C09",
+      "LocationName": "Crystal City",
+      "Min": "19"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "2",
+      "Line": "OR",
+      "LocationCode": "D03",
+      "LocationName": "L'Enfant Plaza",
+      "Min": "19"
+    }, {
+      "Car": "6",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "BL",
+      "LocationCode": "D05",
+      "LocationName": "Capitol South",
+      "Min": "19"
+    }, {
+      "Car": "8",
+      "Destination": "Largo",
+      "DestinationCode": "G05",
+      "DestinationName": "Largo Town Center",
+      "Group": "1",
+      "Line": "BL",
+      "LocationCode": "D07",
+      "LocationName": "Potomac Ave",
+      "Min": "19"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "YL",
+      "LocationCode": "E03",
+      "LocationName": "U Street/African-Amer Civil War Memorial/Cardozo",
+      "Min": "19"
+    }, {
+      "Car": "8",
+      "Destination": "Brnch Av",
+      "DestinationCode": "F11",
+      "DestinationName": "Branch Ave",
+      "Group": "2",
+      "Line": "GR",
+      "LocationCode": "E04",
+      "LocationName": "Columbia Heights",
+      "Min": "19"
+    }, {
+      "Car": "-",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "YL",
+      "LocationCode": "E07",
+      "LocationName": "West Hyattsville",
+      "Min": "19"
+    }, {
+      "Car": "8",
+      "Destination": "Brnch Av",
+      "DestinationCode": "F11",
+      "DestinationName": "Branch Ave",
+      "Group": "2",
+      "Line": "GR",
+      "LocationCode": "F04",
+      "LocationName": "Waterfront",
+      "Min": "19"
+    }, {
+      "Car": "-",
+      "Destination": "Wiehle",
+      "DestinationCode": "N06",
+      "DestinationName": "Wiehle-Reston East",
+      "Group": "2",
+      "Line": "SV",
+      "LocationCode": "N01",
+      "LocationName": "McLean",
+      "Min": "19"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A02",
+      "LocationName": "Farragut North",
+      "Min": "20"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A07",
+      "LocationName": "Tenleytown-AU",
+      "Min": "20"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "B04",
+      "LocationName": "Rhode Island Ave-Brentwood",
+      "Min": "20"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "B07",
+      "LocationName": "Takoma",
+      "Min": "20"
+    }, {
+      "Car": "8",
+      "Destination": "Largo",
+      "DestinationCode": "G05",
+      "DestinationName": "Largo Town Center",
+      "Group": "1",
+      "Line": "BL",
+      "LocationCode": "C06",
+      "LocationName": "Arlington Cemetery",
+      "Min": "20"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "BL",
+      "LocationCode": "C08",
+      "LocationName": "Pentagon City",
+      "Min": "20"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "YL",
+      "LocationCode": "C10",
+      "LocationName": "Ronald Reagan Washington National Airport",
+      "Min": "20"
+    }, {
+      "Car": "8",
+      "Destination": "NewCrltn",
+      "DestinationCode": "D13",
+      "DestinationName": "New Carrollton",
+      "Group": "1",
+      "Line": "OR",
+      "LocationCode": "D07",
+      "LocationName": "Potomac Ave",
+      "Min": "20"
+    }, {
+      "Car": "-",
+      "Destination": "Brnch Av",
+      "DestinationCode": "F11",
+      "DestinationName": "Branch Ave",
+      "Group": "2",
+      "Line": "GR",
+      "LocationCode": "E09",
+      "LocationName": "College Park-U of Md",
+      "Min": "20"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "YL",
+      "LocationCode": "F01",
+      "LocationName": "Gallery Pl-Chinatown",
+      "Min": "20"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "GR",
+      "LocationCode": "F09",
+      "LocationName": "Naylor Road",
+      "Min": "20"
+    }, {
+      "Car": "8",
+      "Destination": "NewCrltn",
+      "DestinationCode": "D13",
+      "DestinationName": "New Carrollton",
+      "Group": "1",
+      "Line": "OR",
+      "LocationCode": "K01",
+      "LocationName": "Court House",
+      "Min": "20"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A04",
+      "LocationName": "Woodley Park-Zoo/Adams Morgan",
+      "Min": "21"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A09",
+      "LocationName": "Bethesda",
+      "Min": "21"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A11",
+      "LocationName": "Grosvenor-Strathmore",
+      "Min": "21"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "B03",
+      "LocationName": "Union Station",
+      "Min": "21"
+    }, {
+      "Car": "-",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "B07",
+      "LocationName": "Takoma",
+      "Min": "21"
+    }, {
+      "Car": "-",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "YL",
+      "LocationCode": "C07",
+      "LocationName": "Pentagon",
+      "Min": "21"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "2",
+      "Line": "OR",
+      "LocationCode": "D02",
+      "LocationName": "Smithsonian",
+      "Min": "21"
+    }, {
+      "Car": "6",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "BL",
+      "LocationCode": "D04",
+      "LocationName": "Federal Center SW",
+      "Min": "21"
+    }, {
+      "Car": "8",
+      "Destination": "Largo",
+      "DestinationCode": "G05",
+      "DestinationName": "Largo Town Center",
+      "Group": "1",
+      "Line": "BL",
+      "LocationCode": "D08",
+      "LocationName": "Stadium-Armory",
+      "Min": "21"
+    }, {
+      "Car": null,
+      "Destination": "VIENNA/FAIRFAX",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "1",
+      "Line": "OR",
+      "LocationCode": "D13",
+      "LocationName": "New Carrollton",
+      "Min": "21"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "YL",
+      "LocationCode": "E07",
+      "LocationName": "West Hyattsville",
+      "Min": "21"
+    }, {
+      "Car": "8",
+      "Destination": "Brnch Av",
+      "DestinationCode": "F11",
+      "DestinationName": "Branch Ave",
+      "Group": "2",
+      "Line": "GR",
+      "LocationCode": "F05",
+      "LocationName": "Navy Yard-Ballpark",
+      "Min": "21"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "2",
+      "Line": "OR",
+      "LocationCode": "K05",
+      "LocationName": "East Falls Church",
+      "Min": "21"
+    }, {
+      "Car": "-",
+      "Destination": "Wiehle",
+      "DestinationCode": "N06",
+      "DestinationName": "Wiehle-Reston East",
+      "Group": "2",
+      "Line": "SV",
+      "LocationCode": "N02",
+      "LocationName": "Tysons Corner",
+      "Min": "21"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A01",
+      "LocationName": "Metro Center",
+      "Min": "22"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A06",
+      "LocationName": "Van Ness-UDC",
+      "Min": "22"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A13",
+      "LocationName": "Twinbrook",
+      "Min": "22"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "B05",
+      "LocationName": "Brookland-CUA",
+      "Min": "22"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "B08",
+      "LocationName": "Silver Spring",
+      "Min": "22"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "BL",
+      "LocationCode": "C09",
+      "LocationName": "Crystal City",
+      "Min": "22"
+    }, {
+      "Car": "-",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "YL",
+      "LocationCode": "C14",
+      "LocationName": "Eisenhower Avenue",
+      "Min": "22"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "2",
+      "Line": "OR",
+      "LocationCode": "D01",
+      "LocationName": "Federal Triangle",
+      "Min": "22"
+    }, {
+      "Car": "6",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "BL",
+      "LocationCode": "D03",
+      "LocationName": "L'Enfant Plaza",
+      "Min": "22"
+    }, {
+      "Car": "8",
+      "Destination": "NewCrltn",
+      "DestinationCode": "D13",
+      "DestinationName": "New Carrollton",
+      "Group": "1",
+      "Line": "OR",
+      "LocationCode": "D08",
+      "LocationName": "Stadium-Armory",
+      "Min": "22"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "YL",
+      "LocationCode": "F02",
+      "LocationName": "Archives-Navy Memorial-Penn Quarter",
+      "Min": "22"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "GR",
+      "LocationCode": "F08",
+      "LocationName": "Southern Avenue",
+      "Min": "22"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A05",
+      "LocationName": "Cleveland Park",
+      "Min": "23"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A10",
+      "LocationName": "Medical Center",
+      "Min": "23"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "B01",
+      "LocationName": "Gallery Pl-Chinatown",
+      "Min": "23"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "B02",
+      "LocationName": "Judiciary Square",
+      "Min": "23"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "2",
+      "Line": "OR",
+      "LocationCode": "D12",
+      "LocationName": "Landover",
+      "Min": "23"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "YL",
+      "LocationCode": "E08",
+      "LocationName": "Prince George's Plaza",
+      "Min": "23"
+    }, {
+      "Car": "8",
+      "Destination": "Brnch Av",
+      "DestinationCode": "F11",
+      "DestinationName": "Branch Ave",
+      "Group": "2",
+      "Line": "GR",
+      "LocationCode": "F06",
+      "LocationName": "Anacostia",
+      "Min": "23"
+    }, {
+      "Car": null,
+      "Destination": "HUNTINGTON",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "1",
+      "Line": "BL",
+      "LocationCode": "G05",
+      "LocationName": "Largo Town Center",
+      "Min": "23"
+    }, {
+      "Car": "8",
+      "Destination": "Ballston",
+      "DestinationCode": "K04",
+      "DestinationName": "Ballston-MU",
+      "Group": "1",
+      "Line": "SV",
+      "LocationCode": "K05",
+      "LocationName": "East Falls Church",
+      "Min": "23"
+    }, {
+      "Car": "-",
+      "Destination": "Wiehle",
+      "DestinationCode": "N06",
+      "DestinationName": "Wiehle-Reston East",
+      "Group": "2",
+      "Line": "SV",
+      "LocationCode": "N03",
+      "LocationName": "Greensboro",
+      "Min": "23"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A05",
+      "LocationName": "Cleveland Park",
+      "Min": "24"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A10",
+      "LocationName": "Medical Center",
+      "Min": "24"
+    }, {
+      "Car": "-",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A14",
+      "LocationName": "Rockville",
+      "Min": "24"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "2",
+      "Line": "OR",
+      "LocationCode": "C01",
+      "LocationName": "Metro Center",
+      "Min": "24"
+    }, {
+      "Car": "-",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "YL",
+      "LocationCode": "C13",
+      "LocationName": "King St-Old Town",
+      "Min": "24"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "GR",
+      "LocationCode": "F07",
+      "LocationName": "Congress Heights",
+      "Min": "24"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "2",
+      "Line": "OR",
+      "LocationCode": "K06",
+      "LocationName": "West Falls Church-VT/UVA",
+      "Min": "24"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A06",
+      "LocationName": "Van Ness-UDC",
+      "Min": "25"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A14",
+      "LocationName": "Rockville",
+      "Min": "25"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "B01",
+      "LocationName": "Gallery Pl-Chinatown",
+      "Min": "25"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "B02",
+      "LocationName": "Judiciary Square",
+      "Min": "25"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "B06",
+      "LocationName": "Fort Totten",
+      "Min": "25"
+    }, {
+      "Car": "-",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "B06",
+      "LocationName": "Fort Totten",
+      "Min": "25"
+    }, {
+      "Car": "-",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "B10",
+      "LocationName": "Wheaton",
+      "Min": "25"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "YL",
+      "LocationCode": "C12",
+      "LocationName": "Braddock Road",
+      "Min": "25"
+    }, {
+      "Car": "-",
+      "Destination": "Wiehle",
+      "DestinationCode": "N06",
+      "DestinationName": "Wiehle-Reston East",
+      "Group": "2",
+      "Line": "SV",
+      "LocationCode": "N04",
+      "LocationName": "Spring Hill",
+      "Min": "25"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A01",
+      "LocationName": "Metro Center",
+      "Min": "26"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A04",
+      "LocationName": "Woodley Park-Zoo/Adams Morgan",
+      "Min": "26"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A09",
+      "LocationName": "Bethesda",
+      "Min": "26"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "B09",
+      "LocationName": "Forest Glen",
+      "Min": "26"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "2",
+      "Line": "OR",
+      "LocationCode": "C02",
+      "LocationName": "McPherson Square",
+      "Min": "26"
+    }, {
+      "Car": "-",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "YL",
+      "LocationCode": "C12",
+      "LocationName": "Braddock Road",
+      "Min": "26"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "2",
+      "Line": "OR",
+      "LocationCode": "D11",
+      "LocationName": "Cheverly",
+      "Min": "26"
+    }, {
+      "Car": "8",
+      "Destination": "Brnch Av",
+      "DestinationCode": "F11",
+      "DestinationName": "Branch Ave",
+      "Group": "2",
+      "Line": "GR",
+      "LocationCode": "F07",
+      "LocationName": "Congress Heights",
+      "Min": "26"
+    }, {
+      "Car": "8",
+      "Destination": "Largo",
+      "DestinationCode": "G05",
+      "DestinationName": "Largo Town Center",
+      "Group": "1",
+      "Line": "BL",
+      "LocationCode": "G01",
+      "LocationName": "Benning Road",
+      "Min": "26"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "BL",
+      "LocationCode": "G04",
+      "LocationName": "Morgan Boulevard",
+      "Min": "26"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A11",
+      "LocationName": "Grosvenor-Strathmore",
+      "Min": "27"
+    }, {
+      "Car": "-",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A13",
+      "LocationName": "Twinbrook",
+      "Min": "27"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "B03",
+      "LocationName": "Union Station",
+      "Min": "27"
+    }, {
+      "Car": "-",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "B05",
+      "LocationName": "Brookland-CUA",
+      "Min": "27"
+    }, {
+      "Car": "8",
+      "Destination": "Largo",
+      "DestinationCode": "G05",
+      "DestinationName": "Largo Town Center",
+      "Group": "1",
+      "Line": "BL",
+      "LocationCode": "C03",
+      "LocationName": "Farragut West",
+      "Min": "27"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "2",
+      "Line": "OR",
+      "LocationCode": "C03",
+      "LocationName": "Farragut West",
+      "Min": "27"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "YL",
+      "LocationCode": "C13",
+      "LocationName": "King St-Old Town",
+      "Min": "27"
+    }, {
+      "Car": "8",
+      "Destination": "NewCrltn",
+      "DestinationCode": "D13",
+      "DestinationName": "New Carrollton",
+      "Group": "1",
+      "Line": "OR",
+      "LocationCode": "D09",
+      "LocationName": "Minnesota Ave",
+      "Min": "27"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "GR",
+      "LocationCode": "F06",
+      "LocationName": "Anacostia",
+      "Min": "27"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A02",
+      "LocationName": "Farragut North",
+      "Min": "28"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A03",
+      "LocationName": "Dupont Circle",
+      "Min": "28"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A07",
+      "LocationName": "Tenleytown-AU",
+      "Min": "28"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "B07",
+      "LocationName": "Takoma",
+      "Min": "28"
+    }, {
+      "Car": "-",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "B09",
+      "LocationName": "Forest Glen",
+      "Min": "28"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "B10",
+      "LocationName": "Wheaton",
+      "Min": "28"
+    }, {
+      "Car": "8",
+      "Destination": "Largo",
+      "DestinationCode": "G05",
+      "DestinationName": "Largo Town Center",
+      "Group": "1",
+      "Line": "BL",
+      "LocationCode": "C02",
+      "LocationName": "McPherson Square",
+      "Min": "28"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "2",
+      "Line": "OR",
+      "LocationCode": "D10",
+      "LocationName": "Deanwood",
+      "Min": "28"
+    }, {
+      "Car": "8",
+      "Destination": "Brnch Av",
+      "DestinationCode": "F11",
+      "DestinationName": "Branch Ave",
+      "Group": "2",
+      "Line": "GR",
+      "LocationCode": "F08",
+      "LocationName": "Southern Avenue",
+      "Min": "28"
+    }, {
+      "Car": null,
+      "Destination": "GREENBELT",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "GR",
+      "LocationCode": "F11",
+      "LocationName": "Branch Ave",
+      "Min": "28"
+    }, {
+      "Car": "8",
+      "Destination": "Largo",
+      "DestinationCode": "G05",
+      "DestinationName": "Largo Town Center",
+      "Group": "1",
+      "Line": "BL",
+      "LocationCode": "G02",
+      "LocationName": "Capitol Heights",
+      "Min": "28"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "2",
+      "Line": "OR",
+      "LocationCode": "K07",
+      "LocationName": "Dunn Loring-Merrifield",
+      "Min": "28"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A08",
+      "LocationName": "Friendship Heights",
+      "Min": "29"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A12",
+      "LocationName": "White Flint",
+      "Min": "29"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "B35",
+      "LocationName": "NoMa-Gallaudet",
+      "Min": "29"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "YL",
+      "LocationCode": "C07",
+      "LocationName": "Pentagon",
+      "Min": "29"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "YL",
+      "LocationCode": "C14",
+      "LocationName": "Eisenhower Avenue",
+      "Min": "29"
+    }, {
+      "Car": "8",
+      "Destination": "NewCrltn",
+      "DestinationCode": "D13",
+      "DestinationName": "New Carrollton",
+      "Group": "1",
+      "Line": "OR",
+      "LocationCode": "D10",
+      "LocationName": "Deanwood",
+      "Min": "29"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "GR",
+      "LocationCode": "F05",
+      "LocationName": "Navy Yard-Ballpark",
+      "Min": "29"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "BL",
+      "LocationCode": "G03",
+      "LocationName": "Addison Road-Seat Pleasant",
+      "Min": "29"
+    }, {
+      "Car": "-",
+      "Destination": "NewCrltn",
+      "DestinationCode": "D13",
+      "DestinationName": "New Carrollton",
+      "Group": "1",
+      "Line": "OR",
+      "LocationCode": "K07",
+      "LocationName": "Dunn Loring-Merrifield",
+      "Min": "29"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A03",
+      "LocationName": "Dupont Circle",
+      "Min": "30"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A08",
+      "LocationName": "Friendship Heights",
+      "Min": "30"
+    }, {
+      "Car": "-",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A12",
+      "LocationName": "White Flint",
+      "Min": "30"
+    }, {
+      "Car": "-",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "B04",
+      "LocationName": "Rhode Island Ave-Brentwood",
+      "Min": "30"
+    }, {
+      "Car": "8",
+      "Destination": "Largo",
+      "DestinationCode": "G05",
+      "DestinationName": "Largo Town Center",
+      "Group": "1",
+      "Line": "BL",
+      "LocationCode": "C01",
+      "LocationName": "Metro Center",
+      "Min": "30"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "2",
+      "Line": "OR",
+      "LocationCode": "D09",
+      "LocationName": "Minnesota Ave",
+      "Min": "30"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A07",
+      "LocationName": "Tenleytown-AU",
+      "Min": "31"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "B08",
+      "LocationName": "Silver Spring",
+      "Min": "31"
+    }, {
+      "Car": "-",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "B08",
+      "LocationName": "Silver Spring",
+      "Min": "31"
+    }, {
+      "Car": "8",
+      "Destination": "Largo",
+      "DestinationCode": "G05",
+      "DestinationName": "Largo Town Center",
+      "Group": "1",
+      "Line": "BL",
+      "LocationCode": "D01",
+      "LocationName": "Federal Triangle",
+      "Min": "31"
+    }, {
+      "Car": "8",
+      "Destination": "NewCrltn",
+      "DestinationCode": "D13",
+      "DestinationName": "New Carrollton",
+      "Group": "1",
+      "Line": "OR",
+      "LocationCode": "D11",
+      "LocationName": "Cheverly",
+      "Min": "31"
+    }, {
+      "Car": "8",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "GR",
+      "LocationCode": "F04",
+      "LocationName": "Waterfront",
+      "Min": "31"
+    }, {
+      "Car": "8",
+      "Destination": "Brnch Av",
+      "DestinationCode": "F11",
+      "DestinationName": "Branch Ave",
+      "Group": "2",
+      "Line": "GR",
+      "LocationCode": "F09",
+      "LocationName": "Naylor Road",
+      "Min": "31"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "BL",
+      "LocationCode": "G02",
+      "LocationName": "Capitol Heights",
+      "Min": "31"
+    }, {
+      "Car": "8",
+      "Destination": "Largo",
+      "DestinationCode": "G05",
+      "DestinationName": "Largo Town Center",
+      "Group": "1",
+      "Line": "BL",
+      "LocationCode": "G03",
+      "LocationName": "Addison Road-Seat Pleasant",
+      "Min": "31"
+    }, {
+      "Car": "8",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "A13",
+      "LocationName": "Twinbrook",
+      "Min": "32"
+    }, {
+      "Car": "8",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "B04",
+      "LocationName": "Rhode Island Ave-Brentwood",
+      "Min": "32"
+    }, {
+      "Car": "-",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "B35",
+      "LocationName": "NoMa-Gallaudet",
+      "Min": "32"
+    }, {
+      "Car": "6",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "BL",
+      "LocationCode": "C04",
+      "LocationName": "Foggy Bottom-GWU",
+      "Min": "32"
+    }, {
+      "Car": "-",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "GR",
+      "LocationCode": "F10",
+      "LocationName": "Suitland",
+      "Min": "32"
+    }, {
+      "Car": "-",
+      "Destination": "NewCrltn",
+      "DestinationCode": "D13",
+      "DestinationName": "New Carrollton",
+      "Group": "1",
+      "Line": "OR",
+      "LocationCode": "K06",
+      "LocationName": "West Falls Church-VT/UVA",
+      "Min": "32"
+    }, {
+      "Car": "-",
+      "Destination": "Glenmont",
+      "DestinationCode": "B11",
+      "DestinationName": "Glenmont",
+      "Group": "1",
+      "Line": "RD",
+      "LocationCode": "A11",
+      "LocationName": "Grosvenor-Strathmore",
+      "Min": "33"
+    }, {
+      "Car": "-",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "B07",
+      "LocationName": "Takoma",
+      "Min": "33"
+    }, {
+      "Car": "8",
+      "Destination": "Largo",
+      "DestinationCode": "G05",
+      "DestinationName": "Largo Town Center",
+      "Group": "1",
+      "Line": "BL",
+      "LocationCode": "D02",
+      "LocationName": "Smithsonian",
+      "Min": "33"
+    }, {
+      "Car": "-",
+      "Destination": "Shady Gr",
+      "DestinationCode": "A15",
+      "DestinationName": "Shady Grove",
+      "Group": "2",
+      "Line": "RD",
+      "LocationCode": "B03",
+      "LocationName": "Union Station",
+      "Min": "34"
+    }, {
+      "Car": "6",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "BL",
+      "LocationCode": "C05",
+      "LocationName": "Rosslyn",
+      "Min": "34"
+    }, {
+      "Car": "8",
+      "Destination": "Largo",
+      "DestinationCode": "G05",
+      "DestinationName": "Largo Town Center",
+      "Group": "1",
+      "Line": "BL",
+      "LocationCode": "D03",
+      "LocationName": "L'Enfant Plaza",
+      "Min": "34"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "2",
+      "Line": "OR",
+      "LocationCode": "D08",
+      "LocationName": "Stadium-Armory",
+      "Min": "34"
+    }, {
+      "Car": "8",
+      "Destination": "NewCrltn",
+      "DestinationCode": "D13",
+      "DestinationName": "New Carrollton",
+      "Group": "1",
+      "Line": "OR",
+      "LocationCode": "D12",
+      "LocationName": "Landover",
+      "Min": "34"
+    }, {
+      "Car": "8",
+      "Destination": "Brnch Av",
+      "DestinationCode": "F11",
+      "DestinationName": "Branch Ave",
+      "Group": "2",
+      "Line": "GR",
+      "LocationCode": "F04",
+      "LocationName": "Waterfront",
+      "Min": "34"
+    }, {
+      "Car": "-",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "GR",
+      "LocationCode": "F09",
+      "LocationName": "Naylor Road",
+      "Min": "34"
+    }, {
+      "Car": "8",
+      "Destination": "Brnch Av",
+      "DestinationCode": "F11",
+      "DestinationName": "Branch Ave",
+      "Group": "2",
+      "Line": "GR",
+      "LocationCode": "F10",
+      "LocationName": "Suitland",
+      "Min": "34"
+    }, {
+      "Car": "8",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "BL",
+      "LocationCode": "G01",
+      "LocationName": "Benning Road",
+      "Min": "34"
+    }, {
+      "Car": "8",
+      "Destination": "Largo",
+      "DestinationCode": "G05",
+      "DestinationName": "Largo Town Center",
+      "Group": "1",
+      "Line": "BL",
+      "LocationCode": "G04",
+      "LocationName": "Morgan Boulevard",
+      "Min": "34"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "1",
+      "Line": "OR",
+      "LocationCode": "K01",
+      "LocationName": "Court House",
+      "Min": "34"
+    }, {
+      "Car": "-",
+      "Destination": "Wiehle",
+      "DestinationCode": "N06",
+      "DestinationName": "Wiehle-Reston East",
+      "Group": "2",
+      "Line": "SV",
+      "LocationCode": "K04",
+      "LocationName": "Ballston-MU",
+      "Min": "34"
+    }, {
+      "Car": "-",
+      "Destination": "Ballston",
+      "DestinationCode": "K04",
+      "DestinationName": "Ballston-MU",
+      "Group": "1",
+      "Line": "SV",
+      "LocationCode": "N04",
+      "LocationName": "Spring Hill",
+      "Min": "34"
+    }, {
+      "Car": "8",
+      "Destination": "Largo",
+      "DestinationCode": "G05",
+      "DestinationName": "Largo Town Center",
+      "Group": "1",
+      "Line": "BL",
+      "LocationCode": "D04",
+      "LocationName": "Federal Center SW",
+      "Min": "36"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "2",
+      "Line": "OR",
+      "LocationCode": "D07",
+      "LocationName": "Potomac Ave",
+      "Min": "36"
+    }, {
+      "Car": "8",
+      "Destination": "Brnch Av",
+      "DestinationCode": "F11",
+      "DestinationName": "Branch Ave",
+      "Group": "2",
+      "Line": "GR",
+      "LocationCode": "F05",
+      "LocationName": "Navy Yard-Ballpark",
+      "Min": "36"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "2",
+      "Line": "OR",
+      "LocationCode": "K02",
+      "LocationName": "Clarendon",
+      "Min": "36"
+    }, {
+      "Car": "-",
+      "Destination": "NewCrltn",
+      "DestinationCode": "D13",
+      "DestinationName": "New Carrollton",
+      "Group": "1",
+      "Line": "OR",
+      "LocationCode": "K05",
+      "LocationName": "East Falls Church",
+      "Min": "36"
+    }, {
+      "Car": "-",
+      "Destination": "Ballston",
+      "DestinationCode": "K04",
+      "DestinationName": "Ballston-MU",
+      "Group": "1",
+      "Line": "SV",
+      "LocationCode": "N03",
+      "LocationName": "Greensboro",
+      "Min": "36"
+    }, {
+      "Car": "6",
+      "Destination": "Hntingtn",
+      "DestinationCode": "C15",
+      "DestinationName": "Huntington",
+      "Group": "2",
+      "Line": "BL",
+      "LocationCode": "C06",
+      "LocationName": "Arlington Cemetery",
+      "Min": "37"
+    }, {
+      "Car": "-",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "GR",
+      "LocationCode": "F08",
+      "LocationName": "Southern Avenue",
+      "Min": "37"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "2",
+      "Line": "OR",
+      "LocationCode": "K03",
+      "LocationName": "Virginia Square-GMU",
+      "Min": "37"
+    }, {
+      "Car": "-",
+      "Destination": "Wiehle",
+      "DestinationCode": "N06",
+      "DestinationName": "Wiehle-Reston East",
+      "Group": "2",
+      "Line": "SV",
+      "LocationCode": "K05",
+      "LocationName": "East Falls Church",
+      "Min": "37"
+    }, {
+      "Car": "8",
+      "Destination": "Largo",
+      "DestinationCode": "G05",
+      "DestinationName": "Largo Town Center",
+      "Group": "1",
+      "Line": "BL",
+      "LocationCode": "D05",
+      "LocationName": "Capitol South",
+      "Min": "38"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "2",
+      "Line": "OR",
+      "LocationCode": "D06",
+      "LocationName": "Eastern Market",
+      "Min": "38"
+    }, {
+      "Car": "8",
+      "Destination": "Brnch Av",
+      "DestinationCode": "F11",
+      "DestinationName": "Branch Ave",
+      "Group": "2",
+      "Line": "GR",
+      "LocationCode": "F06",
+      "LocationName": "Anacostia",
+      "Min": "38"
+    }, {
+      "Car": "-",
+      "Destination": "Ballston",
+      "DestinationCode": "K04",
+      "DestinationName": "Ballston-MU",
+      "Group": "1",
+      "Line": "SV",
+      "LocationCode": "N02",
+      "LocationName": "Tysons Corner",
+      "Min": "38"
+    }, {
+      "Car": "8",
+      "Destination": "Largo",
+      "DestinationCode": "G05",
+      "DestinationName": "Largo Town Center",
+      "Group": "1",
+      "Line": "BL",
+      "LocationCode": "D06",
+      "LocationName": "Eastern Market",
+      "Min": "39"
+    }, {
+      "Car": "-",
+      "Destination": "Grnbelt",
+      "DestinationCode": "E10",
+      "DestinationName": "Greenbelt",
+      "Group": "1",
+      "Line": "GR",
+      "LocationCode": "F07",
+      "LocationName": "Congress Heights",
+      "Min": "39"
+    }, {
+      "Car": "-",
+      "Destination": "NewCrltn",
+      "DestinationCode": "D13",
+      "DestinationName": "New Carrollton",
+      "Group": "1",
+      "Line": "OR",
+      "LocationCode": "K04",
+      "LocationName": "Ballston-MU",
+      "Min": "39"
+    }, {
+      "Car": "8",
+      "Destination": "Vienna",
+      "DestinationCode": "K08",
+      "DestinationName": "Vienna/Fairfax-GMU",
+      "Group": "2",
+      "Line": "OR",
+      "LocationCode": "D05",
+      "LocationName": "Capitol South",
+      "Min": "40"
+    }, {
+      "Car": "-",
+      "Destination": "Ballston",
+      "DestinationCode": "K04",
+      "DestinationName": "Ballston-MU",
+      "Group": "1",
+      "Line": "SV",
+      "LocationCode": "N01",
+      "LocationName": "McLean",
+      "Min": "40"
+    }]
+  }
